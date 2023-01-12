@@ -77,8 +77,8 @@ function ListagemFuncionarios() {
                 <thead>
                   <tr>
                     <th scope='col'>Nome</th>
-                    <th scope='col'>e-mail</th>
-                    <th scope='col'>telefone</th>
+                    <th scope='col'>E-mail</th>
+                    <th scope='col'>Telefone</th>
                     <th scope='col'>CPF</th>
                     <th scope='col'>Ações</th>
                   </tr>
