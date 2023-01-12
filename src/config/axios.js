@@ -1,2 +1,2 @@
 export const BASE_URL =
-  'https://github.com/MarcioMAlmeida/fake-api-lp2';
+  'https://my-json-server.typicode.com/MarcioMAlmeida/fake-api-lp2';

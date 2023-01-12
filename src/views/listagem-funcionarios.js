@@ -94,13 +94,13 @@ function ListagemFuncionarios() {
                         <Stack spacing={1} padding={0} direction='row'>
                           <IconButton
                             aria-label='edit'
-                            onClick={() => editar(dado.id)}
+                            onClick={() => editar(dado.idFun)}
                           >
                             <EditIcon />
                           </IconButton>
                           <IconButton
                             aria-label='delete'
-                            onClick={() => excluir(dado.id)}
+                            onClick={() => excluir(dado.idFun)}
                           >
                             <DeleteIcon />
                           </IconButton>
